@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libsoil.a  CMakeFiles/soil.dir/D_/Mazinho/Problema2/Arvore/external/SOIL/src/image_helper.c.o CMakeFiles/soil.dir/D_/Mazinho/Problema2/Arvore/external/SOIL/src/stb_image_aug.c.o CMakeFiles/soil.dir/D_/Mazinho/Problema2/Arvore/external/SOIL/src/image_DXT.c.o CMakeFiles/soil.dir/D_/Mazinho/Problema2/Arvore/external/SOIL/src/SOIL.c.o
+/usr/bin/ranlib.exe libsoil.a

@@ -1,0 +1,3 @@
+/d/mazinho/problema2/arvore/external/soil/CMakeFiles/rebuild_cache.dir
+/d/mazinho/problema2/arvore/external/soil/CMakeFiles/soil.dir
+/d/mazinho/problema2/arvore/external/soil/CMakeFiles/edit_cache.dir
